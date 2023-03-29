@@ -1,0 +1,168 @@
+Tradeup 4:
+
+ Outputs:
+  M4A4 StatTrak™ | Hada de los Dientes (Casi nuevo):
+   Low Price: 1783.13  --  Cartera Steam: 1550.54
+   Probabilidad: 0.33  --  Aporta por tradeup: 516.79
+  Glock-18 StatTrak™ | Vogue (Casi nuevo):
+   Low Price: 1861.79  --  Cartera Steam: 1618.94
+   Probabilidad: 0.33  --  Aporta por tradeup: 539.59
+  XM1014 StatTrak™ | Sepultada (Casi nuevo):
+   Low Price: 1723.64  --  Cartera Steam: 1498.81
+   Probabilidad: 0.33  --  Aporta por tradeup: 499.55
+
+  Output total por tradeup(cartera steam): 1555.94
+
+ Inputs:
+  caja1:
+   MP5-SD StatTrak™ | Canivalización (Algo desgastado):
+    Low Price: 110.87
+    Cantidad: 10  --  Precio total: 1108.70
+   Galil AR StatTrak™ | Phoenix Connexion (Algo desgastado):
+    Low Price: 110.78
+    Cantidad: 10  --  Precio total: 1107.80
+   Tec-9 StatTrak™ | Hermano (Algo desgastado):
+    Low Price: 107.14
+    Cantidad: 10  --  Precio total: 1071.40
+   MAG-7 StatTrak™ | Monstruo marino (Algo desgastado):
+    Low Price: 131.99
+    Cantidad: 10  --  Precio total: 1319.90
+   MAC-10 StatTrak™ | Seducción (Algo desgastado):
+    Low Price: 121.34
+    Cantidad: 10  --  Precio total: 1213.40
+
+   Costo input total(low): 1071.40
+   Profit: 484.54  --  Porcentaje: 145.22
+
+----------------------------------------------------------------------
+
+ Tradeup rentable:
+  Caja1:
+   Maxprice: 137.09
+
+   MP5-SD StatTrak™ | Canivalización (Algo desgastado):
+    Precio individual: 110.87  --  Precio ind limite: 136.49
+    Precio total: 1108.70  --  Precio total limite: 1364.86
+    Agregada!
+   Galil AR StatTrak™ | Phoenix Connexion (Algo desgastado):
+    Precio individual: 110.78  --  Precio ind limite: 136.49
+    Precio total: 1107.80  --  Precio total limite: 1364.86
+    Agregada!
+   Tec-9 StatTrak™ | Hermano (Algo desgastado):
+    Precio individual: 107.14  --  Precio ind limite: 136.49
+    Precio total: 1071.40  --  Precio total limite: 1364.86
+    Agregada!
+   MAG-7 StatTrak™ | Monstruo marino (Algo desgastado):
+    Precio individual: 131.99  --  Precio ind limite: 136.49
+    Precio total: 1319.90  --  Precio total limite: 1364.86
+    Agregada!
+   MAC-10 StatTrak™ | Seducción (Algo desgastado):
+    Precio individual: 121.34  --  Precio ind limite: 136.49
+    Precio total: 1213.40  --  Precio total limite: 1364.86
+    Agregada!
+
+
+========================================================================================================================
+
+
+Tradeup 5:
+
+ Outputs:
+  MP5-SD | Fósforo (Recién fabricado):
+   Low Price: 790.56  --  Cartera Steam: 687.44
+   Probabilidad: 16.67  --  Aporta por tradeup: 11459.61
+  Desert Eagle | Industria mecánica (Recién fabricado):
+   Low Price: 758.86  --  Cartera Steam: 659.87
+   Probabilidad: 16.67  --  Aporta por tradeup: 11000.10
+  UMP-45 | Impulso (Recién fabricado):
+   Low Price: 673.58  --  Cartera Steam: 585.72
+   Probabilidad: 16.67  --  Aporta por tradeup: 9763.92
+  MP9 | Cadena alimenticia (Recién fabricado):
+   Low Price: 1813.34  --  Cartera Steam: 1576.81
+   Probabilidad: 16.67  --  Aporta por tradeup: 26285.39
+  Galil AR | Aberración cromática (Recién fabricado):
+   Low Price: 1361.96  --  Cartera Steam: 1184.31
+   Probabilidad: 16.67  --  Aporta por tradeup: 19742.38
+  XM1014 | TQM (Recién fabricado):
+   Low Price: 1351.84  --  Cartera Steam: 1175.51
+   Probabilidad: 16.67  --  Aporta por tradeup: 19595.68
+
+  Output total por tradeup(cartera steam): 97847.09
+
+ Inputs:
+  caja1:
+   MAC-10 | Machacabotones (Casi nuevo):
+    Low Price: 76.66
+    Cantidad: 5  --  Precio total: 383.30
+   Negev | dev_texture (Casi nuevo):
+    Low Price: 76.66
+    Cantidad: 5  --  Precio total: 383.30
+   P250 | Ciberescudo (Casi nuevo):
+    Low Price: 76.79
+    Cantidad: 5  --  Precio total: 383.95
+  caja2:
+   Galil AR | Señal (Recién fabricado):
+    Low Price: 91.05
+    Cantidad: 5  --  Precio total: 455.25
+   G3SG1 | Carroñero (Recién fabricado):
+    Low Price: 91.20
+    Cantidad: 5  --  Precio total: 456.00
+   P250 | Nunca mas (Recién fabricado):
+    Low Price: 89.56
+    Cantidad: 5  --  Precio total: 447.80
+
+   Costo input total(low): 831.10
+   Profit: 97015.99  --  Porcentaje: 11773.20
+
+----------------------------------------------------------------------
+
+ Tradeup rentable:
+  Caja1:
+   Maxprice: 7951.84
+
+   MAC-10 | Machacabotones (Casi nuevo):
+    Precio individual: 76.66  --  Precio ind limite: 7916.96
+    Precio total: 383.30  --  Precio total limite: 39584.82
+    Agregada!
+   Negev | dev_texture (Casi nuevo):
+    Precio individual: 76.66  --  Precio ind limite: 7916.96
+    Precio total: 383.30  --  Precio total limite: 39584.82
+    Agregada!
+   P250 | Ciberescudo (Casi nuevo):
+    Precio individual: 76.79  --  Precio ind limite: 7916.96
+    Precio total: 383.95  --  Precio total limite: 39584.82
+    Agregada!
+
+  Caja2:
+   Maxprice: 9289.94
+
+   Galil AR | Señal (Recién fabricado):
+    Precio individual: 91.05  --  Precio ind limite: 9249.19
+    Precio total: 455.25  --  Precio total limite: 46245.97
+    Agregada!
+   G3SG1 | Carroñero (Recién fabricado):
+    Precio individual: 91.20  --  Precio ind limite: 9249.19
+    Precio total: 456.00  --  Precio total limite: 46245.97
+    Agregada!
+   P250 | Nunca mas (Recién fabricado):
+    Precio individual: 89.56  --  Precio ind limite: 9249.19
+    Precio total: 447.80  --  Precio total limite: 46245.97
+    Agregada!
+
+
+========================================================================================================================
+
+
+========================================================================================================================
+LISTA BUYSKINS:
+{"name": "MP5-SD StatTrak\u2122 | Canivalizaci\u00f3n (Algo desgastado)", "link": "StatTrak\u2122%20MP5-SD%20%7C%20Kitbash%20%28Field-Tested%29", "maxfloat": 0.1999, "maxprice": 137.08717195584845, "tradeup": "4"}
+{"name": "Galil AR StatTrak\u2122 | Phoenix Connexion (Algo desgastado)", "link": "StatTrak\u2122%20Galil%20AR%20%7C%20Connexion%20%28Field-Tested%29", "maxfloat": 0.1999, "maxprice": 137.08717195584845, "tradeup": "4"}
+{"name": "Tec-9 StatTrak\u2122 | Hermano (Algo desgastado)", "link": "StatTrak\u2122%20Tec-9%20%7C%20Brother%20%28Field-Tested%29", "maxfloat": 0.1999, "maxprice": 137.08717195584845, "tradeup": "4"}
+{"name": "MAG-7 StatTrak\u2122 | Monstruo marino (Algo desgastado)", "link": "StatTrak\u2122%20MAG-7%20%7C%20Monster%20Call%20%28Field-Tested%29", "maxfloat": 0.1999, "maxprice": 137.08717195584845, "tradeup": "4"}
+{"name": "MAC-10 StatTrak\u2122 | Seducci\u00f3n (Algo desgastado)", "link": "StatTrak\u2122%20MAC-10%20%7C%20Allure%20%28Field-Tested%29", "maxfloat": 0.1999, "maxprice": 137.08717195584845, "tradeup": "4"}
+{"name": "MAC-10 | Machacabotones (Casi nuevo)", "link": "MAC-10%20%7C%20Button%20Masher%20%28Minimal%20Wear%29", "maxfloat": 0.0933, "maxprice": 7951.839489588878, "tradeup": "5"}
+{"name": "Negev | dev_texture (Casi nuevo)", "link": "Negev%20%7C%20dev_texture%20%28Minimal%20Wear%29", "maxfloat": 0.0933, "maxprice": 7951.839489588878, "tradeup": "5"}
+{"name": "P250 | Ciberescudo (Casi nuevo)", "link": "P250%20%7C%20Cyber%20Shell%20%28Minimal%20Wear%29", "maxfloat": 0.0933, "maxprice": 7951.839489588878, "tradeup": "5"}
+{"name": "Galil AR | Se\u00f1al (Reci\u00e9n fabricado)", "link": "Galil%20AR%20%7C%20Signal%20%28Factory%20New%29", "maxfloat": 0.035, "maxprice": 9289.939273253065, "tradeup": "5"}
+{"name": "G3SG1 | Carro\u00f1ero (Reci\u00e9n fabricado)", "link": "G3SG1%20%7C%20Scavenger%20%28Factory%20New%29", "maxfloat": 0.035, "maxprice": 9289.939273253065, "tradeup": "5"}
+{"name": "P250 | Nunca mas (Reci\u00e9n fabricado)", "link": "P250%20%7C%20Nevermore%20%28Factory%20New%29", "maxfloat": 0.035, "maxprice": 9289.939273253065, "tradeup": "5"}
